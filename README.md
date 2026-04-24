@@ -1,4 +1,4 @@
-# fhir-healthcare-analytics
+# FHIR Healthcare Analytics
 Healthcare analytics project using HL7 FHIR APIs, Python and machine learning
 # 🏥 FHIR Healthcare Analytics using HL7 FHIR APIs
 
