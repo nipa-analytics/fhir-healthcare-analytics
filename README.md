@@ -100,16 +100,23 @@ Outlier detection revealed the importance of healthcare data quality validation.
 ## 📈 Sample Visualizations
 
 ### Gender Distribution
-(Add image here)
+
+<img width="552" height="489" alt="download" src="https://github.com/user-attachments/assets/4f0eec9e-3b2c-43dd-9361-81941ab66770" />
+
 
 ### Age Distribution
-(Add image here)
+
+<img width="552" height="435" alt="download" src="https://github.com/user-attachments/assets/84b2a57d-cf1b-4c60-9da1-27288afd8c51" />
+
 
 ### Condition Frequency
-(Add image here)
+
+<img width="543" height="615" alt="download" src="https://github.com/user-attachments/assets/aaf19344-4d35-4787-8268-135c50f49a80" />
+
 
 ### Observation Clustering
-(Add image here)
+
+<img width="1189" height="490" alt="download" src="https://github.com/user-attachments/assets/d4ca5c6c-b4a9-492c-bd6c-6eca1cfa02c8" />
 
 ---
 
